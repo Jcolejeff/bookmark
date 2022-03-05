@@ -25,6 +25,7 @@ const Div = styled.div`
     padding: 0.4rem;
     border: none;
     border-radius: 5px;
+    margin-block-start: 5px;
   }
 `;
 
