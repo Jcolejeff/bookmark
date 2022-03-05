@@ -7,7 +7,7 @@ const Signup = () => {
       <h4> 35,000+ already joined</h4>
       <h3> Stay up-to-date with what we’re doing</h3>
       <input type="email" placeholder="sign up today" />
-      <button>contact us</button>
+      <button>Contact Us</button>
     </Div>
   );
 };
@@ -19,10 +19,12 @@ const Div = styled.div`
   padding: 5rem;
   input {
     padding: 0.4rem;
+    border-radius: 5px;
   }
   button {
     padding: 0.4rem;
     border: none;
+    border-radius: 5px;
   }
 `;
 
