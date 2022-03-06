@@ -1,5 +1,4 @@
-import React, { useState, useEffect } from "react";
-import { FaAngleDoubleRight } from "react-icons/fa";
+import React, { useState } from "react";
 import styled from "styled-components";
 import img1 from "../images/illustration-features-tab-1.svg";
 import img2 from "../images/illustration-features-tab-2.svg";

@@ -1,6 +1,5 @@
 import React from "react";
 import styled from "styled-components";
-import img from "../images/logo-bookmark.svg";
 
 const Footer = () => {
   return (
