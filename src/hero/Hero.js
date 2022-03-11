@@ -35,6 +35,7 @@ const Div = styled.section`
   justify-content: center;
   align-items: center;
   margin-block-start: 4rem;
+  font-family: "Hubballi", cursive;
 
   & > * {
     flex: 1;

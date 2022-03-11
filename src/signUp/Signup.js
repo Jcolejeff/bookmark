@@ -17,6 +17,7 @@ const Div = styled.div`
   background-color: blue;
   color: aliceblue;
   padding: 5rem;
+  font-family: "Hubballi", cursive;
   input {
     padding: 0.4rem;
     border-radius: 5px;

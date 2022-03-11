@@ -66,8 +66,8 @@ const Div = styled.div`
     margin-bottom: 4rem;
     text-align: center;
     p {
-      text-align: center;
-      padding: 0rem 5rem 0rem 5rem;
+      margin: 0 auto;
+      font-family: "Hubballi", cursive;
     }
   }
 `;
